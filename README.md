@@ -25,4 +25,4 @@ solana-keygen pubkey deploy-keypair.json
 
 ## 📬 Feedback
 
-We welcome issues, contributions, and feature suggestions. Let's build the future of web3 together!
+We welcome issues, contributions, and feature suggestions — let's build the future of web3 together!
